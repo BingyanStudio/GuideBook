@@ -16,7 +16,7 @@ hero:
       link: https://github.com/BingyanStudio
 features:
   - icon: 🛠️
-    title: a
+    title: aaaaa
     details: aaaaaa
     link: /doc
     linkText: aa
